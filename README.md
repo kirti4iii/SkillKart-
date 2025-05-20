@@ -36,3 +36,7 @@ A personalized learning roadmap platform that helps users master new skills effe
 ## Deployed Version
 
 [Visit the live demo](https://your-firebase-url.web.app)
+
+## Deployed Application
+
+Visit the live demo of SkillKart: [https://skillkart-74898.web.app](https://skillkart-74898.web.app)
